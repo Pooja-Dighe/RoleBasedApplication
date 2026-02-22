@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|d:\\2026\\demoproject\\rolebasedloginsln\\rolebasedloginsln\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|solutionrelative:rolebasedloginsln\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|d:\\2026\\demoproject\\rolebasedloginsln\\rolebasedloginsln\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|solutionrelative:rolebasedloginsln\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|d:\\2026\\demoproject\\rolebasedloginsln\\rolebasedloginsln\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|solutionrelative:rolebasedloginsln\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|d:\\2026\\demoproject\\rolebasedloginsln\\rolebasedloginsln\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|solutionrelative:rolebasedloginsln\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|d:\\2026\\demoproject\\rolebasedloginsln\\rolebasedloginsln\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|solutionrelative:rolebasedloginsln\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|d:\\2026\\demoproject\\rolebasedloginsln\\rolebasedloginsln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|solutionrelative:rolebasedloginsln\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|d:\\2026\\demoproject\\rolebasedloginsln\\rolebasedloginsln\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|solutionrelative:rolebasedloginsln\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|d:\\2026\\demoproject\\rolebasedloginsln\\rolebasedloginsln\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA775EB-ECD2-428B-92F0-F46329A54A2B}|RoleBasedLoginSln\\RoleBasedLoginSln.csproj|solutionrelative:rolebasedloginsln\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginSln\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "RoleBasedLoginSln\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:08:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\appsettings.json",
+              "RelativeDocumentMoniker": "RoleBasedLoginSln\\appsettings.json",
+              "ToolTip": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\appsettings.json",
+              "RelativeToolTip": "RoleBasedLoginSln\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T17:47:28.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginSln\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RoleBasedLoginSln\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAawDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:17:03.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginSln\\Helpers\\JwtHelper.cs",
+              "ToolTip": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "RoleBasedLoginSln\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:56:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginSln\\DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "RoleBasedLoginSln\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:50:43.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Program.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginSln\\Program.cs",
+              "ToolTip": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Program.cs",
+              "RelativeToolTip": "RoleBasedLoginSln\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:32:30.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginSln\\Data\\DataContext.cs",
+              "ToolTip": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Data\\DataContext.cs",
+              "RelativeToolTip": "RoleBasedLoginSln\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:16:59.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RoleBasedLoginSln\\Models\\User.cs",
+              "ToolTip": "D:\\2026\\DemoProject\\RoleBasedLoginSln\\RoleBasedLoginSln\\Models\\User.cs",
+              "RelativeToolTip": "RoleBasedLoginSln\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T07:10:18.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

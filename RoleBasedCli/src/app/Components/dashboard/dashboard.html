@@ -1,0 +1,39 @@
+<div class="login-container">
+  <div class="login-card dashboard-card">
+
+    <!-- Header Section -->
+    <div class="dashboard-header">
+      <h2>Dashboard</h2>
+
+      <div class="profile">
+        <span class="email">{{ email }}</span>
+
+        <div class="avatar">
+          {{ email?.charAt(0) | uppercase }}
+        </div>
+
+        <button type="button" (click)="logout()">Logout</button>
+      </div>
+    </div>
+
+    <hr>
+
+    <!-- Role Based Content -->
+
+    <div class="role-section" *ngIf="role === 'Admin'">
+      <h3>Admin Panel</h3>
+      <p>Welcome Admin! You can manage and view system data.</p>
+    </div>
+
+    <div class="role-section" *ngIf="role === 'Principal'">
+      <h3>Principal Panel</h3>
+      <p>Welcome Principal! Monitor school activities here.</p>
+    </div>
+
+    <div class="role-section" *ngIf="role === 'Teacher'">
+      <h3>Teacher Panel</h3>
+      <p>Welcome Teacher! Manage your classes and students.</p>
+    </div>
+
+  </div>
+</div>
