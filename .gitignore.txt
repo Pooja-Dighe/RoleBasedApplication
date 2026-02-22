@@ -11,8 +11,8 @@ yarn-error.log
 src/environments/environment.ts
 
 # .NET
-bin/
-obj/
+**/bin/
+**/obj/
 .vs/
 *.user
 *.suo
