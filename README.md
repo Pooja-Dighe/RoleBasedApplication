@@ -5,7 +5,7 @@ This is a full-stack Role-Based Authentication project built using:
 - ASP.NET Core Web API
 - Angular
 - JWT Authentication
-- Role-Based Authorization (Admin/User)
+- Role-Based Authorization (Admin/Principal/Teacher)
 
 ## Project Structure
 
